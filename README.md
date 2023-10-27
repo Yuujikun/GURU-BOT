@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
+    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
     <h1 align="center">GURU-BOT 2.O</h1>
   </a>
 </p>
@@ -37,9 +37,29 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 1. If You don't have an account in Heroku. Create a account.
     <br>
 <p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-2. Now Deploy
+
+2. Watch the following video tutorial, for assistance.
     <br>
-<p align="center"><a href="https://gurubhai.is-a.dev"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://youtu.be/yfdzckCcbPk?si=doxesZtn87BepUBw"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+3. Now Deploy
+    <br>
+<p align="center"><a href="https://www.guruapi.tech"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+#### DEPLOY TO RAILWAY
+
+1. If You don't have an account On Railway. Create a account.
+    <br>
+<p align="center"><a href="https://railway.app"> <img src="https://img.shields.io/badge/RailWay%20Account-blue?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+
+ - Fork this repo.
+- Now head towards https://railway.app/new, select Deploy from repo.
+- Now select the forked repository, select branch.
+- Now go to <b>Variables</b> and add variable listed below.
+   - DATABASE_URL, SESSION_ID, REMOVEBG_KEY
+- Go to <b>Deployments</b> and for deplyment to complete.
+- and you're good to go.
 
 #### DEPLOY TO OKTETO 
 
@@ -70,7 +90,40 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 - Star ⭐ the repo if you like GURU-BOT.
 
-### TEAM GURU BOT
+## CREDITS 
+<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
+<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
+
+<div><button id="boton" type="button">Base  - By FG98F</button></div>
+<a href="https://github.com/FG98F"><img src="https://github.com/FG98F.png" width="150" height="150" alt="adiwajshing"/></a>
 
 
+
+## `Main Dev` 
+<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+  
+`GURU-BOT - By Guru322`
+
+### CONTRIBUTORS
+<a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
+<a href="https://github.com/Amrit9304"><img src="https://github.com/Amrit9304.png" width="200" height="200" alt="Amrit"/></a>
+<a href="https://github.com/Ghost7798"><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
+<a href="https://github.com/Kai0071"><img src="https://github.com/Kai0071.png" width="200" height="200" alt="Kai"/></a>
+
+<h2 align="center">  Reminder
+</h2>
+   
+## 
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
+
+
+<h2 align="center">  NOTICE
+</h2>
+   
+## 
+- Not For Sale
+- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
+- Have A Good Day Ahead
 
