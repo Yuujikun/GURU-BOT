@@ -14,7 +14,7 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2348182173331','2348153995521'] 
+global.mods = ['2348153995521'] 
 global.prems = ['917605902011', '2348153995521', '2348182173331']
 global.allowed = ['917605902011', '2348153995521', '2348182173331']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Yoruichi sama'
+global.botname = 'Sukuna'
 global.premium = 'true'
-global.packname = 'GURU' 
+global.packname = 'Yuji' 
 global.author = '@Asliguruxyuji' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
