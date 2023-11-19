@@ -15,7 +15,7 @@ global.owner = [
 //global.pairingNumber = "" //put your bot number here
 
 global.mods = ['2348153995521'] 
-global.prems = ['917605902011', '2348153995521', '2348182173331']
+global.prems = ['2348153995521', '2348182173331']
 global.allowed = ['917605902011', '2348153995521', '2348182173331']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -50,13 +50,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Sukuna'
+global.botname = 'Yoruichi'
 global.premium = 'true'
 global.packname = 'Yuji' 
 global.author = '@Asliguruxyuji' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.dygp = 'https://chat.whatsapp.com/HMufD1Buoqo6gOOMA1KHEp'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
@@ -66,7 +66,7 @@ global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
+global.dmoji = '😸'
 global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
